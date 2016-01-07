@@ -5,10 +5,15 @@ This is a simulation app showing the relationship between group distribution and
 - beta.csv: this file contains the coefficiency of polynomial functions used as mean function in simulation
 
 ### Input parameters
+* GP parameters
+** GP sigma - global sigma (overall noise level of the data)
+** GP L - length parameter in kernal function (smaller-> jumpy, larger-> smooth)
+* Group Distribution
+* Percentage of Positive
+* Show/hide plots
 
 ### output plots:
 * Simulated trajectory groups
-
 * group by labels
 * AUC performance
 
