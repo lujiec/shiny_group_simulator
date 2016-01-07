@@ -6,8 +6,8 @@ This is a simulation app showing the relationship between group distribution and
 
 ### Input parameters
 * GP parameters
-** GP sigma - global sigma (overall noise level of the data)
-** GP L - length parameter in kernal function (smaller-> jumpy, larger-> smooth)
+  * GP sigma - global sigma (overall noise level of the data)
+  * GP L - length parameter in kernal function (smaller-> jumpy, larger-> smooth)
 * Group Distribution
 * Percentage of Positive
 * Show/hide plots
