@@ -4,8 +4,9 @@ This is a simulation app showing the relationship between group distribution and
 ### input data file beta.csv
 this file contains the coefficiency of polynomial functions used as mean function in simulation
 
+### input parameters
 
-This simulator is has three output plots:
+### output plots:
 * Simulated trajectory groups
 
 * group by labels
